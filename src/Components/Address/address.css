@@ -1,0 +1,28 @@
+.address_container {
+  width: 850px;
+  height: 230px;
+  border: 1px solid #393939;
+  float: left;
+  margin: 20px 0px 0px 50px;
+  border-radius: 5px;
+}
+
+.input_handles {
+  display: flex;
+  padding: 10px;
+}
+.input_handles_two {
+  display: flex;
+  padding: 10px;
+  margin-left: 15px;
+}
+
+.input_align {
+  margin-left: 14px;
+  background-color: #252525;
+  outline: none;
+  color: white;
+  border: none;
+  width: 128px;
+  height: 25px;
+}

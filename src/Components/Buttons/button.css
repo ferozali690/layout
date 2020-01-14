@@ -1,0 +1,19 @@
+.button_background {
+  color: #24ebbc;
+  background-color: #3c3c3c;
+  width: 100px;
+  height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.button_background:hover {
+  background-color: #24ebbc;
+  color: #3c3c3c;
+  font-weight: bold;
+}
+
+.button_align {
+  margin: 10px;
+}

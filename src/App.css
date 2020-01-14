@@ -1,0 +1,13 @@
+.header {
+  display: flex !important;
+}
+
+.heading_wrapper {
+  display: flex;
+  position: relative;
+}
+.button_wrapper {
+  display: flex;
+  position: absolute;
+  right: 100px;
+}
